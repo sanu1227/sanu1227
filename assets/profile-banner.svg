@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">sanu1227 — Games, graphics, and desktop tools</title>
+  <desc id="desc">A dark blue banner with a cyan accent and a geometric wireframe illustration.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172b43"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#65e0cf"/><stop offset="1" stop-color="#7aa8ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a6c1da" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect x="56" y="52" width="42" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="94" fill="#83cfcf" font-size="13" font-weight="600" letter-spacing="4">DEVELOPER / CREATOR</text>
+    <text x="52" y="166" fill="#f3f7fb" font-size="64" font-weight="700" letter-spacing="-2">sanu1227</text>
+    <text x="56" y="210" fill="#bdcbd9" font-size="23">Games, graphics, and desktop tools.</text>
+    <text x="56" y="256" fill="#7e98b1" font-size="13" letter-spacing="2">C++  /  C#  /  PYTHON  /  UNITY</text>
+  </g>
+  <g fill="none" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M946 49 1073 120 1073 222 946 151Z M946 49 819 120 819 222 946 151 M819 222 946 292 1073 222 M946 151V292" stroke="#78c9da" stroke-opacity=".26"/>
+    <path d="m946 82 96 54v72l-96-54-96 54v-72Z M850 208l96 54 96-54 M946 154v108" stroke="url(#accent)" stroke-opacity=".7"/>
+    <path d="m946 115 64 36v41l-64-36-64 36v-41Z M882 192l64 36 64-36 M946 156v72" stroke="#91e2d8" stroke-opacity=".3"/>
+  </g>
+  <g fill="#8ee8d9"><circle cx="946" cy="82" r="4"/><circle cx="850" cy="208" r="4"/><circle cx="1042" cy="208" r="4"/></g>
+</svg>
