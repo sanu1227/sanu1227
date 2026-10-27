@@ -26,14 +26,28 @@
 
 [Explore the project](https://github.com/sanu1227/MoneyTown) · [Screenshots](https://github.com/sanu1227/MoneyTown/blob/main/docs/gallery.md) · [Architecture](https://github.com/sanu1227/MoneyTown/blob/main/docs/architecture.md)
 
-### [RefArchive](https://github.com/sanu1227/RefArchive-releases)
+### [RefArchive](https://github.com/sanu1227/RefArchive)
 **A personal reference library for Windows.**
 
-이미지, 영상, 문서, 텍스트와 링크를 한곳에 보관하고 키워드와 카테고리로 찾는 데스크톱 도구입니다. 공개 저장소에서 설치 파일과 업데이트 안내를 제공합니다.
+이미지, 영상, 문서, 텍스트와 링크를 한곳에 보관하고 키워드와 카테고리로 찾는 데스크톱 도구입니다. 소스 저장소와 설치 파일 배포 저장소를 함께 공개합니다.
 
 `Windows` · `Reference Management` · `Desktop Tools`
 
-[Download & release notes](https://github.com/sanu1227/RefArchive-releases/releases/latest) · [Getting started](https://github.com/sanu1227/RefArchive-releases#readme)
+[Source code](https://github.com/sanu1227/RefArchive) · [Download & release notes](https://github.com/sanu1227/RefArchive-releases/releases/latest)
+
+### [DailyCore ASA](https://github.com/sanu1227/DailyCore-ASA)
+**A desktop companion for conversations and daily routines.**
+
+대화, 일정, 생활 기록을 하나의 Windows 위젯과 상세 화면에서 관리하는 개인용 앱입니다.
+
+`Electron` · `Node.js` · `Desktop Widgets`
+
+### [TokenPilot](https://github.com/sanu1227/TokenPilot)
+**AI subscription usage, at a glance.**
+
+AI 서비스 사용량과 초기화 시간을 정리하는 Android 앱입니다. 로컬 PC 연결 도구와 알림 기능을 포함합니다.
+
+`Kotlin` · `Jetpack Compose` · `Android`
 
 ## Engineering Foundations
 
@@ -50,8 +64,8 @@
 
 ## Working With
 
-**Languages** &nbsp; C++ · C# · Python<br />
-**Game & Desktop** &nbsp; Unity · Win32<br />
+**Languages** &nbsp; C++ · C# · Python · JavaScript · Kotlin<br />
+**Game & Apps** &nbsp; Unity · Win32 · Electron · Android<br />
 **Tools** &nbsp; Visual Studio · Git · GitHub
 
 ---
